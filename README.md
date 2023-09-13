@@ -6,6 +6,7 @@ The project aims to develop a machine learning model that predicts the likelihoo
 
 Develop an accurate predictive model for heart disease assessment.
 Create a user-friendly interface for data input and model utilization.
+![Work_Flow](https://github.com/Adityasudan21/Heart-Disease-Prediction-Using-ML/blob/main/Images/Work%20Flow.png "Work_Flow")
 
 ### Dataset
 
