@@ -56,12 +56,16 @@ Create a Streamlit-based graphical interface for user-friendly data input and mo
 
 ### Screenshots
 
-![screen1](https://github.com/PrateekAdhikaree/Nightmares/blob/master/images/screen1.jpg "Screenshot 1")
+![StreamLit UI](https://github.com/Adityasudan21/Heart-Disease-Prediction-Using-ML/blob/main/Images/Interface.png "StreamLit UI")
 
-![screen2](https://github.com/PrateekAdhikaree/Nightmares/blob/master/images/screen2.jpg "Screenshot 2")
+![Prone Test](https://github.com/Adityasudan21/Heart-Disease-Prediction-Using-ML/blob/main/Images/Prone.png "Prone Test")
 
-![screen3](https://github.com/PrateekAdhikaree/Nightmares/blob/master/images/screen3.jpg "Screenshot 3")
+### Conclusion
 
-## GAME OVER
+In conclusion, the "Heart Disease Prediction" project has successfully achieved its primary objectives, providing a robust and accurate predictive model for assessing the likelihood of individuals developing heart disease. Leveraging the logistic regression algorithm and a comprehensive dataset from Kaggle, we have created a valuable tool for early intervention and proactive management of heart disease risk factors.
 
-![game_over](https://github.com/PrateekAdhikaree/Nightmares/blob/master/images/game_over.jpg "GAME OVER")
+The project includes a user-friendly interface developed with Streamlit, allowing users to input relevant health parameters and receive predictions promptly. Model evaluation on validation and test datasets yielded an impressive accuracy rate of 80.97%, indicating the reliability and effectiveness of the predictive algorithm.
+
+Furthermore, we have taken measures to ensure data security and privacy compliance, particularly when dealing with sensitive health-related information. The project adheres to industry-standard best practices for data handling and model deployment.
+
+As we move forward, opportunities for future enhancements exist, including exploring additional features, fine-tuning hyperparameters, and considering the integration of other machine learning algorithms to further improve prediction accuracy. The "Heart Disease Prediction" project represents a significant step in leveraging machine learning for healthcare decision-making and underscores the potential for data-driven solutions to benefit society's well-being.
