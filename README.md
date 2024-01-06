@@ -1,6 +1,6 @@
 # Heart Disease Prediction 
 **Discription**
-The project aims to develop a machine learning model that predicts the likelihood of an individual developing heart disease based on a set of input parameters. This model will provide valuable insights for early intervention and proactive management of heart disease risk factors.
+The project aims to develop a machine learning model that predicts the likelihood of an individual developing heart disease based on a set of input parameters. This model will provide valuable insights for early intervention and proactive management of heart disease risk factors.  
 
 ## Project Goals:
 
